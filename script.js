@@ -15,5 +15,4 @@ const carrosel = () => {
     imgs.style.transform = `translateX(${-index * imgWidth}px)`;
 };
 
-// Intervalo para alternância de imagem
 setInterval(carrosel, 4000);
