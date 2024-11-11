@@ -31,7 +31,7 @@ Se você deseja contribuir com este projeto, sinta-se à vontade para enviar pul
 
 ## Licença
 
-O código-fonte deste projeto está disponível sob a Licença MIT. No entanto, as músicas do EP são propriedade do artista Fabricin e estão licenciadas sob [Licença específica do artista, como Creative Commons, etc.]. O uso, modificação ou distribuição das músicas deve seguir a licença especificada pelo artista.
+O código-fonte deste projeto está disponível sob a Licença MIT. No entanto, as músicas do EP são propriedade do artista Fabricin e estão licenciadas sob Distruibuidora Landr. O uso, modificação ou distribuição das músicas deve seguir a licença especificada pelo artista.
 
 ## Contato
 
